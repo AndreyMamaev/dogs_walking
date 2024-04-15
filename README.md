@@ -4,11 +4,11 @@
 ### Запуск проекта
 Клонировать репозиторий и перейти в него в командной строке:
 
-```git clone https://github.com/AndreyMamaev/miner.git```
+```git clone https://github.com/AndreyMamaev/dogs_walking.git```
 
 Перейти в директорию проекта:
 
-```cd miner```
+```cd dogs_walking```
 
 Создать /backend/.env файл (по образцу .envexample)
 
@@ -27,3 +27,5 @@
 Для остановки проекта:
 
 ```docker-compose down```
+
+Описание методов будет доступно по [ссылке](http://localhost/api/openapi).
